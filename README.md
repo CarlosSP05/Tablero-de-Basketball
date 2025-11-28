@@ -64,15 +64,15 @@ La aplicación consta de dos actividades principales:
 
 ## Capturas de pantalla
 
--
+---
 
 <img width="365" height="777" alt="image" src="https://github.com/user-attachments/assets/cd12cf6f-d08c-4697-9b3a-7ce1e3f780cb" />
 
--
+---
 
 <img width="376" height="493" alt="image" src="https://github.com/user-attachments/assets/945f3446-6dd3-457b-a35c-9dbf6970bbc3" />
 
--
+---
 
 <img width="359" height="410" alt="image" src="https://github.com/user-attachments/assets/e7e96dad-14cd-4913-a844-d9e0837f4b46" />
 
