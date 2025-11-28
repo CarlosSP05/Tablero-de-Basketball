@@ -61,7 +61,7 @@ La aplicación consta de dos actividades principales:
 - **ScoreActivity.java**: Muestra el marcador final y el ganador.
 - **activity_main.xml**: Layout de la actividad principal, con botones y `TextView` para los puntajes.
 - **activity_score.xml**: Layout de la actividad de resultados, que muestra el puntaje final y el ganador.
-- **ScoreViewModel.java**: ViewModel que contiene la lógica para calcular el puntaje y determinar al ganador.
+
 
 
 
