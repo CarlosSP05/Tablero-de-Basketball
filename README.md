@@ -31,21 +31,15 @@ La aplicación consta de dos actividades principales:
 
 ## Instalación
 
-1. **Clonar el repositorio**:
+1. **Abrir el proyecto en Android Studio**.
 
-    ```bash
-    git clone https://github.com/tu_usuario/tablero_basket.git
-    ```
-
-2. **Abrir el proyecto en Android Studio**.
-
-3. **Sincronizar el proyecto**:
+2. **Sincronizar el proyecto**:
     - Haz clic en **File > Sync Project with Gradle Files** para asegurarte de que todo esté configurado correctamente.
 
-4. **Construir el proyecto**:
+3. **Construir el proyecto**:
     - Ve a **Build > Rebuild Project** para construir el proyecto.
 
-5. **Ejecutar la aplicación**:
+4. **Ejecutar la aplicación**:
     - Conecta tu dispositivo Android o usa un emulador.
     - Haz clic en **Run > Run 'app'** para ejecutar la aplicación.
 
